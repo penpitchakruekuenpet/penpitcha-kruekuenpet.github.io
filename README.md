@@ -1,8 +1,15 @@
 ## Penpitcha 'Peaches' Kruekuenpet's  portfolio
-### ---Assignments---
+### ---**About**---
+-I am a Game Art student at Columbia College in Chicago
+
+-I only know HTML, some CSS, some C#, and Javascript.
+
+### ---**Assignments**---
 -
 -
 -
 
-### ---Projects---
-
+### ---**Projects**---
+-
+-
+-
